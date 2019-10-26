@@ -8,11 +8,7 @@ src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
 }
 
 h1 {
-	font-family: 'SEGA LOGO FONT';
-	color: aqua;
-	font-weight: 200;
-}
-
-#scroll {
-	height: 100%;
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 200;
+  color: #0ccac4;
 }
